@@ -6,10 +6,15 @@
 
 # Configuration #
 `$title`: Title of the page
+
 `$filedir` Directory where files will get uploaded
+
 `$maxsize` Maximus size (in bytes) of the uploaded file
+
 `$allowedExts` Allowed extensions
+
 `$allowedMime` Allowed mime types
+
 `$baseurl` Path of index.php
 
 # License #
@@ -20,7 +25,11 @@ A demo is avaiable [here](http://spittiepie.com/img/ "here")
 
 # Warranty #
 This project is released without warranty.
+
 I've coded this without prior knowledge of PHP in few hours, so it's probably full of bad habit.
+
 Don't complain with me if someone uses this to hack your server.
+
 You may want to disable PHP in the "up" folder, to increase security.
+
 Remember to set a size limit in your php.ini and/or your webserver too.
