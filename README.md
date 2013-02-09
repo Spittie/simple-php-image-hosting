@@ -20,7 +20,7 @@ This code is released under the [WTFPL V2](http://www.wtfpl.net/ "WTFPL V2") lic
 A demo is avaiable [here](http://spittiepie.com/img/ "here")
 
 # Warranty #
-This project is released *without warranty*.  
+This project is released __without warranty__.  
 I've coded this without prior knowledge of PHP in few hours, so it's probably full of bad habit.  
 Don't complain with me if someone uses this to hack your server.  
 You may want to disable PHP in the "up" folder, to increase security.  
